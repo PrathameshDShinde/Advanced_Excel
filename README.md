@@ -4,15 +4,19 @@ Welcome to the Excel Repository dedicated to data science and analysis! This rep
 ## Practice Sheets:
     1. SUMIFS:
           Practice sheet demonstrating the application of SUMIFS function for conditional summing based on multiple criteria.
+          
     2. COUNTIFS:
            Worksheet showcasing the utilization of COUNTIFS function to count cells based on multiple specified conditions.
+           
     3. PIVOT Tables:
            Excel file containing examples of PIVOT tables, illustrating data summarization and analysis through pivot tables.
+           
     4. VLOOKUP:
            Practice sheet demonstrating the usage of VLOOKUP function for vertical lookup, aiding in data retrieval.
       5. HLOOKUP:
 
                 Worksheet showcasing the HLOOKUP function for horizontal lookup, providing an alternative approach to data retrieval.
+                
       6. SLICER:
 
                 Excel file with examples of data slicing using slicer tools, enhancing data visualization and manipulation.
