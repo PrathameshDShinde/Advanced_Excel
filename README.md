@@ -2,18 +2,14 @@
 Welcome to the Excel Repository dedicated to data science and analysis! This repository houses a collection of practice sheets showcasing a variety of Excel functions, with a focus on tools useful for data science. Explore the power of Excel with functions such as SUMIFS, COUNTIFS, PIVOT tables, VLOOKUP, HLOOKUP, SLICER, EXCEL DASHBOARDS, and additional functions tailored for data science.
 
 ## Practice Sheets:
-      1. SUMIFS:
-
-                Practice sheet demonstrating the application of SUMIFS function for conditional summing based on multiple criteria.
-      2. COUNTIFS:
-
-                Worksheet showcasing the utilization of COUNTIFS function to count cells based on multiple specified conditions.
-      3. PIVOT Tables:
-
-                Excel file containing examples of PIVOT tables, illustrating data summarization and analysis through pivot tables.
-      4. VLOOKUP:
-
-                Practice sheet demonstrating the usage of VLOOKUP function for vertical lookup, aiding in data retrieval.
+    1. SUMIFS:
+          Practice sheet demonstrating the application of SUMIFS function for conditional summing based on multiple criteria.
+    2. COUNTIFS:
+           Worksheet showcasing the utilization of COUNTIFS function to count cells based on multiple specified conditions.
+    3. PIVOT Tables:
+           Excel file containing examples of PIVOT tables, illustrating data summarization and analysis through pivot tables.
+    4. VLOOKUP:
+           Practice sheet demonstrating the usage of VLOOKUP function for vertical lookup, aiding in data retrieval.
       5. HLOOKUP:
 
                 Worksheet showcasing the HLOOKUP function for horizontal lookup, providing an alternative approach to data retrieval.
