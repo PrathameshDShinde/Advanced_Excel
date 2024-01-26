@@ -5,6 +5,7 @@ Welcome to the Excel Repository dedicated to data science and analysis! This rep
  1.SUMIFS: 
     
     Practice sheet demonstrating the application of SUMIFS function for conditional summing based on multiple criteria.
+    
 2.COUNTIFS:
 
     Worksheet showcasing the utilization of COUNTIFS function to count cells based on multiple specified conditions.
