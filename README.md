@@ -49,6 +49,6 @@ Welcome to the Excel Repository dedicated to data science and analysis! This rep
 
         Explore the functions and features demonstrated in each sheet.
 
-Contributions:
+## Contributions:
 Contributions are encouraged! If you have additional practice sheets, functions, or improvements, please submit a pull request.
 Happy Excel practicing for Data Science!
