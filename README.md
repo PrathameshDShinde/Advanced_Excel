@@ -15,6 +15,7 @@ Welcome to the Excel Repository dedicated to data science and analysis! This rep
     Excel file containing examples of PIVOT tables, illustrating data summarization and analysis through pivot tables.
     
 4. VLOOKUP:
+   
     Practice sheet demonstrating the usage of VLOOKUP function for vertical lookup, aiding in data retrieval.
     
 5. HLOOKUP:
@@ -38,12 +39,13 @@ Welcome to the Excel Repository dedicated to data science and analysis! This rep
 11. DATE & TIME FUNCTIONS:
 
     Practice sheet demonstrating the use of DATE, TIME, NOW, and related functions for handling date and time data.
-12.STATISTICAL FUNCTIONS:
+12. STATISTICAL FUNCTIONS:
 
-Excel file incorporating statistical functions like AVERAGE, STDEV, and CORREL for basic data analysis.
-13.Folder Structure:
-Each practice sheet is organized into appropriately labeled folders for easy navigation.
-The Excel dashboard is located in the "Excel Dashboard" folder.
+    Excel file incorporating statistical functions like AVERAGE, STDEV, and CORREL for basic data analysis.
+13. Folder Structure:
+
+    Each practice sheet is organized into appropriately labeled folders for easy navigation.
+    The Excel dashboard is located in the "Excel Dashboard" folder.
 ## How to Use:
 Clone the repository to your local machine using the following command:
 git clone https://github.com/PrathameshDShinde/Advanced_Excel-repository.git
