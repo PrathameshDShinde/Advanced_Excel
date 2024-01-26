@@ -48,8 +48,11 @@ Welcome to the Excel Repository dedicated to data science and analysis! This rep
     The Excel dashboard is located in the "Excel Dashboard" folder.
 ## How to Use:
 Clone the repository to your local machine using the following command:
+
 git clone https://github.com/PrathameshDShinde/Advanced_Excel-repository.git
+
 Open the desired Excel practice sheet using Microsoft Excel or any compatible spreadsheet software.
+
 Explore the functions and features demonstrated in each sheet.
 
 ## Contributions:
