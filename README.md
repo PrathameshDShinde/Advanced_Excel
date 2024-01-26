@@ -2,7 +2,7 @@
 Welcome to the Excel Repository dedicated to data science and analysis! This repository houses a collection of practice sheets showcasing a variety of Excel functions, with a focus on tools useful for data science. Explore the power of Excel with functions such as SUMIFS, COUNTIFS, PIVOT tables, VLOOKUP, HLOOKUP, SLICER, EXCEL DASHBOARDS, and additional functions tailored for data science.
 
 # Practice Sheets:
-1.##SUMIFS:  
+1.  SUMIFS:  
     
     Practice sheet demonstrating the application of SUMIFS function for conditional summing based on multiple criteria.
     
@@ -23,21 +23,21 @@ Welcome to the Excel Repository dedicated to data science and analysis! This rep
 6. SLICER:
 
     Excel file with examples of data slicing using slicer tools, enhancing data visualization and manipulation.
-7.EXCEL DASHBOARD:
+7. EXCEL DASHBOARD:
 
-Comprehensive Excel dashboard combining various functions and features for a holistic representation of data insights.
-8.IF, AND, OR:
+    Comprehensive Excel dashboard combining various functions and features for a holistic representation of data insights.
+8. IF, AND, OR:
 
-Practice sheet demonstrating the use of IF, AND, and OR functions for conditional logic and decision-making.
-9.INDEX & MATCH:
+    Practice sheet demonstrating the use of IF, AND, and OR functions for conditional logic and decision-making.
+9. INDEX & MATCH:
 
-Worksheet illustrating the dynamic duo of INDEX and MATCH functions for flexible data retrieval.
-10.TEXT FUNCTIONS:
+    Worksheet illustrating the dynamic duo of INDEX and MATCH functions for flexible data retrieval.
+10. TEXT FUNCTIONS:
 
-Excel file showcasing text functions such as CONCATENATE, LEFT, RIGHT, MID, and LEN for efficient text manipulation.
-11.DATE & TIME FUNCTIONS:
+    Excel file showcasing text functions such as CONCATENATE, LEFT, RIGHT, MID, and LEN for efficient text manipulation.
+11. DATE & TIME FUNCTIONS:
 
-Practice sheet demonstrating the use of DATE, TIME, NOW, and related functions for handling date and time data.
+    Practice sheet demonstrating the use of DATE, TIME, NOW, and related functions for handling date and time data.
 12.STATISTICAL FUNCTIONS:
 
 Excel file incorporating statistical functions like AVERAGE, STDEV, and CORREL for basic data analysis.
